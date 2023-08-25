@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 
 
 latex_symbols = [
+  ("\\degc", u"℃"),
   ("\\1/8", u"⅛"),
   ("\\bscra", u"𝓪"),
   ("\\guilsinglright", u"›"),
